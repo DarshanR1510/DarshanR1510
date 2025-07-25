@@ -13,6 +13,7 @@ I'm a passionate developer specializing in **Python** and **JavaScript** develop
 - **Testing:** Selenium, Cypress, Automation Testing
 - **Cloud:** AWS Services & Architecture
 - **AI/ML:** LLMs, Agentic AI, Machine Learning
+- **Agentic AI Frameworks:** OpenAI SDK, LangChain, CrewAI, AutoGen
 - **Development:** Full-stack development, API design
 
 ### 🤝 Let's Collaborate
