@@ -33,11 +33,11 @@ Feel free to connect with me. Let's build something amazing together!
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/darshanramani/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:Darshanramani1@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://x.com/darshan_ramani_" target="_blank">
