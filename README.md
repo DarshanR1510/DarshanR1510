@@ -1,4 +1,12 @@
-# Hi there! 👋 I'm Darshan
+<div align="left">
+  <b><pwn>🔴 🟡 🟢</pwn></b>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=$+Hey,+I'm+Darshan+Ramani+:)&font=Fira%20Code&center=true&width=440&height=45&color=09e611&vCenter=true&pause=10&size=22" />
+</div>
+
+<br>
 
 ### 🚀 About Me
 I'm a passionate developer specializing in **Python** and **JavaScript** development, with expertise in **automation testing** and **cloud technologies**. I thrive on creating efficient, scalable solutions and exploring cutting-edge technologies.
@@ -16,24 +24,26 @@ I'm a passionate developer specializing in **Python** and **JavaScript** develop
 - **Agentic AI Frameworks:** OpenAI SDK, LangChain, CrewAI, AutoGen
 - **Development:** Full-stack development, API design
 
-### 🤝 Let's Collaborate
-I'm actively seeking collaboration opportunities in:
-- 🐍 **Python** projects and frameworks
-- 🤖 **Agentic AI** and **LLM** applications
-- 🧪 **Automation testing** solutions
-- 🌐 **Selenium** and **Cypress** testing frameworks
-- ☁️ **AWS** cloud implementations
+### 🔗 📫 Get In Touch
+Feel free to connect with me. Let's build something amazing together!
 
-### 📊 What I'm Working On
-- Contributing to open-source automation tools
-- Developing AI-powered testing solutions
-- Creating educational content about modern testing practices
-- Building scalable cloud-native applications
-
-### 📫 Get In Touch
-- **Email:** [Darshanramani1@gmail.com](mailto:Darshanramani1@gmail.com)
-- **GitHub:** [@DarshanR1510](https://github.com/DarshanR1510)
-
+<p align="center">
+  <a href="https://github.com/DarshanR1510" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/darshanramani/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:Darshanramani1@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/darshan_ramani_" target="_blank">
+    <img alt="X (Twitter)" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
 ---
 
 *"Automating the future, one test at a time"* 🎯
