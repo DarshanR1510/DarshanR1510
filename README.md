@@ -18,7 +18,7 @@ I'm a passionate developer specializing in **Python** and **JavaScript** develop
 
 ### 💻 Tech Stack & Interests
 - **Languages:** Python, JavaScript
-- **Testing:** Selenium, Cypress, Automation Testing
+- **Testing:** Playwright, Selenium, Cypress, Automation Testing
 - **Cloud:** AWS Services & Architecture
 - **AI/ML:** LLMs, Agentic AI, Machine Learning
 - **Agentic AI Frameworks:** OpenAI SDK, LangChain, CrewAI, AutoGen
